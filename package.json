@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayzee1386/Natours-Project.git"
+  },
+  "author": "kazeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayzee1386/Natours-Project/issues"
+  },
+  "homepage": "https://github.com/kayzee1386/Natours-Project#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
